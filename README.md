@@ -2,6 +2,7 @@
 Tenth programming exercise for C# class.
 
 ASCII initials based on `figlet -f doh M O`
+
 For more info on FIGlet, see: http://www.figlet.org
 
 ## Example output
