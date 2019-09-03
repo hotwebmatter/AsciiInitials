@@ -3,6 +3,9 @@ Tenth programming exercise for C# class.
 
 ASCII initials based on `figlet -f doh M O`
 
+In order to meet the specification, I had to replace colons
+with lowercase `m` and `o` characters.
+
 For more info on FIGlet, see: http://www.figlet.org
 
 ## Example output
