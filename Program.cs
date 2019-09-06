@@ -1,4 +1,13 @@
-﻿using System;
+/**
+ * ######################################################
+ * ##    Programming Assignment #10                    ##
+ * ##    Developer: Matthew Obert                      ##
+ * ##    Date Submitted: September 06 2019             ##
+ * ##    Purpose: Fancy ASCII art letters.             ##
+ * ######################################################
+ */
+
+using System;
 using static System.Console;
 
 namespace AsciiInitials
