@@ -8,6 +8,8 @@ ASCII initials based on `figlet -f doh M O`
 In order to meet the specification, I had to replace colons
 with lowercase `m` and `o` characters.
 
+Note also that I'm handicapped by my congenital lack of a middle initial.
+
 For more info on FIGlet, see: http://www.figlet.org
 
 ## Example output
