@@ -1,6 +1,8 @@
 # AsciiInitials
 Tenth programming exercise for C# class.
 
+Not actually assigned by professor, just based on exercise in textbook.
+
 ASCII initials based on `figlet -f doh M O`
 
 In order to meet the specification, I had to replace colons
